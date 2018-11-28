@@ -1,2 +1,2 @@
 # hello-world
-In-class repository
+Something New!
